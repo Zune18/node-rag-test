@@ -1,0 +1,48 @@
+================================================================================
+                        COMPANY MANIFEST: ABYSSAL ECHOES
+================================================================================
+
+BUSINESS MODEL: BIO-LUMINESCENT ARBITRAGE
+Abyssal Echoes operates in the "Midnight Zone" (1,000m+ depth). We use 
+non-lethal electromagnetic netting to harvest rare enzymes and organic 
+data-code from deep-sea organisms for the longevity tech industry.
+
+--------------------------------------------------------------------------------
+CREW & PAYROLL DATA
+--------------------------------------------------------------------------------
+
+NAME                DESIGNATION                SALARY        ROLE
+--------------------------------------------------------------------------------
+Balthazar Vane      Dread-Captain / CEO        $450,000      Owner & Navigator
+Dr. Elara Vyne      Chief Bio-Synthesist       $380,000      Co-Owner / Science
+Kaelen Thorne       Pressure-Hull Architect    $210,000      Structural Safety
+Mina Sato           Sonic Lure Specialist      $185,000      Acoustic Herding
+Nadia Volkov        Crypto-Broker              $175,000      Market Specialist
+Jax Miller          Lead Extractionist         $160,000      Retrieval Expert
+Orion Pendergast    Bioluminescence Analyst    $145,000      Quality Control
+Sia Voda            Submersible Pilot          $140,000      Drone Operations
+Lila Chen           Marine Chemist             $130,000      Lab Processing
+Umi Tanaka          Depth-Scryer               $125,000      Sonar Interpreting
+Ren Rossi           Hydro-Electric Tech        $115,000      Engine Maintenance
+Zara Kist           Logistics Navigator        $110,000      Route Optimization
+Garrick Stone       Heavy Winch Operator       $95,000       Line Management
+Piper Reed          Supply Purser              $90,000       Resource Manager
+Finnegan O'Shea     Deck Warden                $88,000       Security/Safety
+Boaz Gruff          Lead Hull Scrubber         $75,000       Corrosion Control
+Toby Wick           Junior Extractionist       $65,000       Net Apprentice
+Silas Vane          Legacy Apprentice          $55,000       Deckhand
+"Old" Pete          Weather Consultant         $40,000       Superstition/Storms
+Mako                Ship's AI Interface        $200,000      System Maintenance
+
+--------------------------------------------------------------------------------
+FINANCIAL SUMMARY
+--------------------------------------------------------------------------------
+TOTAL EMPLOYEES:      20
+ANNUAL PAYROLL:       $2,933,000
+PRIMARY REVENUE:      Enzyme Export & Bio-Data
+RISK FACTOR:          High (Deep-Sea Pressure / Trench Anomalies)
+
+--------------------------------------------------------------------------------
+"The trench doesn't offer gifts; it demands a trade. We just make sure 
+the trade is in our favor." - Captain Vane
+================================================================================
