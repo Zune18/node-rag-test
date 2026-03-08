@@ -1,13 +1,11 @@
 import "dotenv/config";
-import { HfInference } from "@huggingface/inference";
-
-const hf = new HfInference(process.env.HF_API_KEY);
+import ollama from "ollama";
 
 export async function create_embedding(text: string) {
-    const embedding = await hf.featureExtraction({
-        model: "BAAI/bge-small-en-v1.5",
-        inputs: text
-    });
+  const response = await ollama.embeddings({
+    model: "nomic-embed-text",
+    prompt: text
+  });
 
-    return embedding as number[];
+  return response.embedding;
 }
