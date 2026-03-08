@@ -3,24 +3,24 @@ import { create_embedding } from "./embed";
 import "dotenv/config";
 
 const pool = new Pool({
-  connectionString: process.env.DB_URL
+    connectionString: process.env.DB_URL
 });
 
 export async function search_similar(query: string) {
-  const embedding = await create_embedding(query);
+    const embedding = await create_embedding(query);
 
-  // Convert JS array → pgvector format
-  const vector = `[${embedding.join(",")}]`;
+    // Convert JS array → pgvector format
+    const vector = `[${embedding.join(",")}]`;
 
-  const result = await pool.query(
-    `
+    const result = await pool.query(
+        `
     SELECT content
     FROM documents
     ORDER BY embedding <-> $1
     LIMIT 3
     `,
-    [vector]
-  );
+        [vector]
+    );
 
-  return result.rows.map((r: any) => r.content);
+    return result.rows.map((r: any) => r.content);
 }
